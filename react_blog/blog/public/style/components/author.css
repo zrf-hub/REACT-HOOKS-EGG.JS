@@ -1,0 +1,40 @@
+.author-div{
+    text-align: center;
+    padding: 1rem;
+
+}
+.author-div div{
+    margin-bottom: 1rem;
+}
+.author-introduction{
+    font-size:.8rem;
+    color: #999;
+}
+.account{
+    background-color: inherit;
+    color: #555;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+.ant-avatar-icon:hover{
+    color: #fff;
+    background-color: #1890ff;
+}
+.ant-tag{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.ant-popover-inner-content{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: #fff;
+}
+.ant-popover-arrow{
+    border-bottom-color: rgba(0, 0, 0, 0.75) !important;
+    border-right-color: rgba(0, 0, 0, 0.75) !important;
+}
+.github{
+    color: #fff;
+}
+.github:hover{
+    color: #fff;
+}

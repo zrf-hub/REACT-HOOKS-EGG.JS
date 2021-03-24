@@ -1,0 +1,14 @@
+.footer-div{
+    text-align: center;
+    width: 100%;
+    padding: 1rem;
+    color: #fff;
+    background-color: #000;
+    margin-top: 8px;
+}
+.footer-page{
+    margin-top: 8px;
+}
+a{
+    color: #337ab7;
+}
